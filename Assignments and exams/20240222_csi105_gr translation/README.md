@@ -2,7 +2,7 @@
 
 Template: [IEEE for journals template with bibtex example files included](https://www.overleaf.com/latex/templates/ieee-for-journals-template-with-bibtex-example-files-included/hjbyjvncdmpx)
 
-Sample article: [YOLO](https://arxiv.org/pdf/1506.02640.pdf)
+[YOLO](https://arxiv.org/pdf/1506.02640.pdf)
 
 # Temporary structure
 
