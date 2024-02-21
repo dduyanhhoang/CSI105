@@ -48,7 +48,7 @@ Module(
 
 ## Code generation
 
-Python is a interpreted language, therefore, in this last step, translated bytecode is handled by the python virtual machine, which take the most of heavy lifting work.
+Python is an interpreted language; therefore, in this last step, translated bytecode is handled by the Python virtual machine, which takes most of the heavy lifting work.
 
 ```python
 import dis
